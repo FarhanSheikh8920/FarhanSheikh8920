@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarhanSheikh8920
 - 👀 I’m interested in ... WebDev
-- 🌱 I’m currently learning ... Node js  
+- 🌱 I’m currently learning ... New Technologies  
 - 💞️ I’m looking to intership to gain more reallife Challenges 
 - ⚡ Fun fact: I enjoy to learn Coding
 
